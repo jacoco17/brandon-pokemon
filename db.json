@@ -1,0 +1,108 @@
+{
+  "team": [
+    {
+      "pokemonId": 1,
+      "name": "bulbasaur",
+      "timestamp": "2025-05-02T23:47:11.086Z",
+      "id": 1
+    },
+    {
+      "pokemonId": 7,
+      "name": "squirtle",
+      "timestamp": "2025-05-02T23:47:43.115Z",
+      "id": 5
+    }
+  ],
+  "battles": [
+    {
+      "pokemon1": "bulbasaur",
+      "pokemon2": "chansey",
+      "winner": "chansey",
+      "timestamp": "2025-05-02T23:34:56.251Z",
+      "battleDetails": [
+        {
+          "stat": "hp",
+          "pokemon1Value": 45,
+          "pokemon2Value": 250,
+          "winner": "chansey"
+        },
+        {
+          "stat": "attack",
+          "pokemon1Value": 49,
+          "pokemon2Value": 5,
+          "winner": "bulbasaur"
+        },
+        {
+          "stat": "defense",
+          "pokemon1Value": 49,
+          "pokemon2Value": 5,
+          "winner": "bulbasaur"
+        },
+        {
+          "stat": "speed",
+          "pokemon1Value": 45,
+          "pokemon2Value": 50,
+          "winner": "chansey"
+        },
+        {
+          "stat": "special-attack",
+          "pokemon1Value": 65,
+          "pokemon2Value": 35,
+          "winner": "bulbasaur"
+        },
+        {
+          "stat": "special-defense",
+          "pokemon1Value": 65,
+          "pokemon2Value": 105,
+          "winner": "chansey"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "pokemon1": "beedrill",
+      "pokemon2": "lapras",
+      "winner": "lapras",
+      "timestamp": "2025-05-02T23:36:47.947Z",
+      "battleDetails": [
+        {
+          "stat": "hp",
+          "pokemon1Value": 65,
+          "pokemon2Value": 130,
+          "winner": "lapras"
+        },
+        {
+          "stat": "attack",
+          "pokemon1Value": 90,
+          "pokemon2Value": 85,
+          "winner": "beedrill"
+        },
+        {
+          "stat": "defense",
+          "pokemon1Value": 40,
+          "pokemon2Value": 80,
+          "winner": "lapras"
+        },
+        {
+          "stat": "speed",
+          "pokemon1Value": 75,
+          "pokemon2Value": 60,
+          "winner": "beedrill"
+        },
+        {
+          "stat": "special-attack",
+          "pokemon1Value": 45,
+          "pokemon2Value": 85,
+          "winner": "lapras"
+        },
+        {
+          "stat": "special-defense",
+          "pokemon1Value": 80,
+          "pokemon2Value": 95,
+          "winner": "lapras"
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
